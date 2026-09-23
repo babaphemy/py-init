@@ -14,6 +14,8 @@
 
 ### Run the app
 
+Update first using `uv sync --upgrade`
+
 - Create alembic revision:
 
 ```bash
